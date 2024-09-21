@@ -1,6 +1,7 @@
-# About me 🥸
+# About me 🦸‍♂️
 
-Hi there!
+
+Hi there! 🤓🤚
 
 I'm Diluxshan (also knowns as Dee), a software engineer based in Zürich, Switzerland.
 
