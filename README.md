@@ -9,7 +9,7 @@ I’m passionate about leveraging my computer science background to build seamle
 
 Outside of coding, I’m always learning – whether it’s exploring the latest tech trends or building personal projects. I’m also into hiking around Switzerland's beautiful landscapes and finding new ways to challenge myself.
 
-⚡![image](https://github.com/user-attachments/assets/88f58d04-a370-48ff-82af-a1e706bbab9c) Fun Facts: 
+⚡Fun Facts: 
 - I'm of Srilankan Tamil heritage, born in Paris, raised in London, living the Swiss life in Zürich.
 - I love playing football
 - I enjoy the beauty of nature
