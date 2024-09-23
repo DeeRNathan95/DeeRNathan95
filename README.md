@@ -11,4 +11,4 @@ Outside of coding, I’m always learning – whether it’s exploring the latest
 
 Fun Facts: 
 - I’m fluent in three languages: English, French, and Tamil. Recently started learning German
-- Born in Paris, Grew up in London, Living Swiss Life.
+- I'm of Tamil heritage, born in France, raised in London, and living the Swiss life.
