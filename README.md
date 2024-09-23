@@ -3,7 +3,7 @@
 
 Hi there! 🤓🤚
 
-I'm Diluxshan (also knowns as Dee), a software engineer based in Zürich, Switzerland.
+I'm Diluxshan, a software engineer based in Zürich, Switzerland.
 
 I’m passionate about leveraging my computer science background to build seamless and efficient applications. I love using JavaScript and Vue.js to craft engaging user experiences and scalable solutions. Currently, I'm working on frontend projects to sharpen my skills, and I’m excited to contribute to innovative tech environments.
 
