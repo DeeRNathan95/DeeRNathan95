@@ -1,7 +1,7 @@
-# About me 🦸‍♂️
+# About me 
 
 
-Hi there! 🤓🤚
+Hi there! 🤚
 
 I'm Diluxshan, a software engineer based in Zürich, Switzerland.
 
