@@ -3,15 +3,15 @@
 
 Hi there! 🤚
 
-I'm a software developer based in Switzerland.
+I'm a software developer based in Switzerland, passionate about building seamless and efficient applications that make a difference.
+With a background in computer science and software engineering, I specialize in crafting engaging user experiences and scalable solutions using JavaScript. 
+Right now, I’m focused on frontend projects to sharpen my skills and contribute to innovative tech environments.
+Outside of coding, I’m always learning — whether it’s exploring the latest tech trends, building personal projects, or hiking through Switzerland’s stunning landscapes. 
+I thrive on curiosity, challenge, and continuous growth.
 
-I’m passionate about leveraging my computer science - sofware engineering background to build seamless and efficient applications.<br>
-I love using JavaScript to craft engaging user experiences and scalable solutions. Currently, I'm working on frontend projects to sharpen my skills, and I’m excited to contribute to innovative tech environments.
-
-Outside of coding, I’m always learning – whether it’s exploring the latest tech trends or building personal projects. I’m also into hiking around Switzerland's beautiful landscapes and finding new ways to challenge myself.
 
 ⚡**Fun Facts:** 
 - I'm of Srilankan Tamil heritage, born in Paris, raised in London and now living the Swiss life.
-- I love playing football
-- I enjoy the beauty of nature
+- Football and gym workouts keep me energised and focused ⚽
+- Nature is my reset button — I find peace and inspiration in the outdoors 
 
