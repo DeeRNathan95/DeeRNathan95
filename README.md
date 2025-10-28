@@ -11,7 +11,7 @@ I love using JavaScript to craft engaging user experiences and scalable solution
 Outside of coding, I’m always learning – whether it’s exploring the latest tech trends or building personal projects. I’m also into hiking around Switzerland's beautiful landscapes and finding new ways to challenge myself.
 
 ⚡**Fun Facts:** 
-- I'm of Srilankan Tamil heritage, born in Paris, raised in London and now living the Swiss life in Zürich.
+- I'm of Srilankan Tamil heritage, born in Paris, raised in London and now living the Swiss life.
 - I love playing football
 - I enjoy the beauty of nature
 
