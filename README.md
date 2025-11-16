@@ -11,7 +11,10 @@ I thrive on curiosity, challenge, and continuous growth.
 
 
 ⚡**Fun Facts:** 
-- I'm of Srilankan Tamil heritage, born in Paris, raised in London and now living the Swiss life.
-- Football and gym workouts keep me energised and focused ⚽
-- Nature is my reset button — I find peace and inspiration in the outdoors 
+- 🌍 🇫🇷 French by birth, 🇬🇧 British by upbringing, 🇨🇭 Swiss by choice — rooted in Sri Lankan Tamil heritage 🇱
+- 🎹 Hobbies: I play piano, hit the gym, learning and love building apps that solve real-world problems
+- 🐺 I have a blue eyes dog it's a husky.
+- 🚗 Car enthusiast !
+- ⚽ Loyal PSG fan and forever cheering for Les Bleus 🇫🇷
+- 🍥 Anime lover: One Piece is my all-time favorite, no debate.
 
