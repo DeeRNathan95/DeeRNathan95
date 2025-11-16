@@ -11,7 +11,7 @@ I thrive on curiosity, challenge, and continuous growth.
 
 
 ⚡**Fun Facts:** 
-- 🌍 French by birth, British by upbringing, Swiss by choice — rooted in Sri Lankan Tamil heritage 
+- 🌍 French by birth, British by upbringing, living the Swiss life — rooted in Sri Lankan Tamil heritage 
 - 🎹 Hobbies: I play piano, hit the gym, learning and love building apps that solve real-world problems
 - 🐺 I have a blue eyed dog, a husky.
 - 🚗 Car enthusiast !
