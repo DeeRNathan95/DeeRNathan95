@@ -13,7 +13,7 @@ I thrive on curiosity, challenge, and continuous growth.
 ⚡**Fun Facts:** 
 - 🌍 French by birth, British by upbringing, Swiss by choice — rooted in Sri Lankan Tamil heritage 
 - 🎹 Hobbies: I play piano, hit the gym, learning and love building apps that solve real-world problems
-- 🐺 I have a blue eyes dog it's a husky.
+- 🐺 I have a blue eyed dog, a husky.
 - 🚗 Car enthusiast !
 - ⚽ Loyal PSG fan and forever cheering for Les Bleus
 - 🍥 Anime lover: One Piece is my all-time favorite, no debate.
