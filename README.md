@@ -9,12 +9,3 @@ Right now, I’m focused on frontend projects to sharpen my skills and contribut
 Outside of coding, I’m always learning — whether it’s exploring the latest tech trends, building personal projects, or hiking through Switzerland’s stunning landscapes. 
 I thrive on curiosity, challenge, and continuous growth.
 
-
-⚡**Fun Facts:** 
-- 🌍 French-born, UK-shaped, Swiss-settled, Srilankan-origin.
-- 🎹 Hobbies: I play piano, hit the gym, learning and love building apps that solve real-world problems
-- 🐺 I have a blue eyed dog, a husky.
-- 🚗 Car enthusiast !
-- ⚽ Loyal PSG fan and forever cheering for Les Bleus
-- 🍥 Anime lover: One Piece is my all-time favorite, no debate.
-
